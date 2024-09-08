@@ -9,6 +9,8 @@
 - [Hobbies](#Hobbies)
 - [Contact](#Contact)
 
+  ![Animated Text](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
 # Introduction
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ornare sed dui non ultricies. Phasellus at ante rutrum, faucibus orci vel, aliquam quam. Integer id imperdiet libero. In id nisi laoreet, laoreet est eu, rhoncus justo. Cras accumsan ultricies purus, aliquet semper lorem. Mauris quis varius libero, nec auctor elit. Maecenas malesuada suscipit dignissim. Vestibulum dapibus vestibulum ex, eu ornare nibh volutpat quis. Cras nec leo ipsum. Vestibulum volutpat feugiat sollicitudin.
 
