@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![Typing Animation](https://raw.githubusercontent.com/GoswamiAbhinav/GoswamiAbhinav/main/Textsvg)
+
 # Table of Contents
 - [Introduction](#introduction)
 - [Experience](#Experience)
