@@ -21,7 +21,7 @@ The Oracle Journey has been an interesting series of events in my career. Oracle
 ![Flowchart](Flowchart.png)
 
 <p align="center">
-  <img src="flowchart.png" alt="Flowchart">
+  <img src="Flowchart.png" alt="Flowchart">
 </p>
 
 
