@@ -21,7 +21,8 @@
 The Oracle Journey has been an interesting series of events in my career. Oracle had a healthcare IT division earlier known as Cerner Healthcare which is now acquired. Within the Division, I was part of the Upgrade Center which mainly deals with EMR/EHR software upgrades for hospitals worldwide.
   I had started out with a Project Delivery Consultant – Consultant acting as a solution expert connecting with clients and gaining their requirements for the project and providing insights for a specific solution. Soon after my experience with many clients, I was promoted as a Project Coordinator in the US team – Coordinating activities and perform consulting operations in the organization with clients.
 
-![Flowchart](Untitled Diagram.drawio.svg)
+![Flowchart](Flowchart.png)
+
 
 
 
