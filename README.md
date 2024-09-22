@@ -20,6 +20,11 @@ The Oracle Journey has been an interesting series of events in my career. Oracle
 
 ![Flowchart](Flowchart.png)
 
+<p align="center">
+  <img src="flowchart.png" alt="Flowchart">
+</p>
+
+
 The above flowchart represents the hierarchy of the promotions awarded to me during my tenure with Oracle. After receiving multiple positive feedbacks from clients, I was quickly promoted as a Project Manager - Overseeing multiple project upgrades for clients globally and ensuring the successful Go-lives of these projects along with post project issues and tickets.
 
 ![image](https://github.com/user-attachments/assets/78d68b5d-12d3-42fa-9ae5-c0b9bda03c6e)
