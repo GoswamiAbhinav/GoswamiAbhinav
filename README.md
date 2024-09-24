@@ -10,6 +10,16 @@
 
 
 # Introduction
+An aspirational Masters candidate at **Rice University** with the specialization of Engineering Management and Leadership. 
+
+Prior to joining my Masters, I was a Project Manager for **Oracle-Health** leading all the US, Australian and Singapore based EMR/EHR upgrade Projects and a total experience of close to 5 years excluding my internship.
+Having 105 reportees under me for various solutions on multiple projects , I have the ability to lead, direct, and create goal driven success which makes revenue to the company. Each project upgrade costs anywhere between $500k to $2M and I would be the sole responsible individual to talk to stakeholders, understand their requirements and see how the process is going forward based on the progress.
+
+Post my bachelors, I had worked as a Dev/ops engineer in **Accenture** as a Software Engineer, I later transitioned to **Oracle-Health** as a project consultant, proved myself with clients over the world and got transitioned to a Project coordinator, and then worked my way up to a Project manager handling global clients.
+
+Interests vary across Technology, Product, Healthcare, Operations and People Management with various certifications. I have developed and applied my skills in agile methodologies, team management, solution design and built across various roles at various companies including Oracle, Accenture and many other MNC's directly & indirectly.
+
+
 
 # Experience
 
@@ -23,9 +33,8 @@
 </p>
 
 
-
 The Oracle Journey has been an interesting series of events in my career. Oracle had a healthcare IT division earlier known as Cerner Healthcare which is now acquired. Within the Division, I was part of the Upgrade Center which mainly deals with EMR/EHR software upgrades for hospitals worldwide.
-  I had started out with a Project Delivery Consultant – Consultant acting as a solution expert connecting with clients and gaining their requirements for the project and providing insights for a specific solution. Soon after my experience with many clients, I was promoted as a Project Coordinator in the US team – Coordinating activities and perform consulting operations in the organization with clients.
+I had started out with a Project Delivery Consultant – Consultant acting as a solution expert connecting with clients and gaining their requirements for the project and providing insights for a specific solution. Soon after my experience with many clients, I was promoted as a Project Coordinator in the US team – Coordinating activities and perform consulting operations in the organization with clients.
 
 <p align="center">
   <img src="Flowchart.png" alt="Flowchart">
@@ -53,10 +62,7 @@ The Major client was Comcast and our team was managing the events and tickets fo
 
 
 VI Solutions is an automation Company and a pioneer in providing Systems, Solutions and Products for a wide range of industries and applications.
-My internship experience here was splendid and lots of learning capabilities through Robotics, electronics and using the National Instruments Labview software had given me plenty of exposure through the technicalities of automation.
-
-
-
+My internship experience here was splendid and lots of learning capabilities through Robotics, electronics and using the National Instruments Labview software gave me plenty of exposure through the technicalities of automation.
 
 
 # Geography
@@ -68,9 +74,7 @@ My internship experience here was splendid and lots of learning capabilities thr
 </p>
 
 
-
 I am originally from India, however I have stayed in Dubai and in the US during my childhood as my father used to work in these locations. My family decided to move back to India for my education and I’m back in the US for my Masters degree.
-
 
 
 
@@ -95,7 +99,7 @@ This project was very advanced in a way where we program a robot to perform cert
 
 2. **Bachelor Of Engineering Project - Wireless Power Transfer (2019)**
    
-This project was to perform a wireless transfer power from one source to another electromagnetically using a multi-wound copper coil. The main goal was to make better efficiency compared to the wireless transfer happening at the time and since this was 2010, wireless transfer was not that well achieved , however we had made a much efficient project and that was applauded for in the whole department.
+This project was to perform a wireless transfer power from one source to another electromagnetically using a multi-wound copper coil. The main goal was to make better efficiency compared to the wireless transfer happening at the time and since this was 2010, wireless transfer was not that well achieved , however we had made a much efficient project which was applauded for in the whole department.
 
 ![image](https://github.com/user-attachments/assets/2234a45b-3125-4281-9477-05d2d4e6f8d6)
 
@@ -109,8 +113,6 @@ In Oracle, plenty of clients have come for their upgrades, many of them are from
 ![image](https://github.com/user-attachments/assets/4785252c-1937-406a-814c-4e404d82e285)
 ![image](https://github.com/user-attachments/assets/a31857ba-e2d1-43f0-a1f1-bc6b3d434114)
 ![image](https://github.com/user-attachments/assets/ab818c70-8085-4c1d-b1c3-3d9d2ff7111b)
-
-
 
 
 
