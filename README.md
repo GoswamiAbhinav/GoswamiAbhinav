@@ -34,9 +34,15 @@ The Oracle Journey has been an interesting series of events in my career. Oracle
 
 The above flowchart represents the hierarchy of the promotions awarded to me during my tenure with Oracle. After receiving multiple positive feedbacks from clients, I was quickly promoted as a Project Manager - Overseeing multiple project upgrades for clients globally and ensuring the successful Go-lives of these projects along with post project issues and tickets.
 
-![image](https://github.com/user-attachments/assets/78d68b5d-12d3-42fa-9ae5-c0b9bda03c6e)
 
-![image](https://github.com/user-attachments/assets/e2e52e17-fe03-4042-971d-5ad85e5e4638)
+<p align="center">
+  
+  <img src="https://github.com/user-attachments/assets/78d68b5d-12d3-42fa-9ae5-c0b9bda03c6e" alt="Image 1" width="200" style="margin-right: 20px;">
+  
+  <img src="https://github.com/user-attachments/assets/e2e52e17-fe03-4042-971d-5ad85e5e4638" alt="Image 2" width="200" style="margin-left: 20px;">
+  
+</p>
+
 
 Prior joining Oracle, I was an associate Software Engineer at Accenture with a specialty of Dev/Ops as my field.
 The Major client was Comcast and our team was managing the events and tickets for their servers on multiple platforms. This was my first job after graduating from my Bachelor of Engineering degree, hence work culture and diversity along with inclusion was well taught and trained here.
