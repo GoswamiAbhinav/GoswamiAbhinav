@@ -144,3 +144,6 @@ I also enjoy gaming and playing e-sports on a competitive level. Currently I pla
 
 # Contact
 
+Feel Free to contact me at abhinavus26@gmail.com
+LinkedIn: https://www.linkedin.com/in/abhinav-goswami-91111513b/
+
