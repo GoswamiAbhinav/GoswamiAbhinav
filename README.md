@@ -127,13 +127,11 @@ https://www.youtube.com/@untunednote/videos
 I also enjoy gaming and playing e-sports on a competitive level. Currently I play Rocket League and Dota 2 competiviely out of which I’m currently in the top 1% worldwide in Rocket League. Rocket League has also come in the potential list of Olympic video games.
 
 
-![image](https://github.com/user-attachments/assets/b793809a-2010-4ff4-a6ae-65731e6a2588)
 
-![image](https://github.com/user-attachments/assets/c05dcdf4-76cd-478c-b543-44f2041df3f0)
-
-
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b793809a-2010-4ff4-a6ae-65731e6a2588" alt="Image 1" width="200">
+  <img src="https://github.com/user-attachments/assets/c05dcdf4-76cd-478c-b543-44f2041df3f0" alt="Image 2" width="200">
+</p>
 
 
 
@@ -141,21 +139,3 @@ I also enjoy gaming and playing e-sports on a competitive level. Currently I pla
 
 # Contact
 
-
-
-
-
-<!--
-**GoswamiAbhinav/GoswamiAbhinav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
