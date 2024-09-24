@@ -12,7 +12,9 @@
 # Introduction
 
 # Experience
-![image](https://github.com/user-attachments/assets/0b60327e-0e16-492a-be06-7bd31ee99d6c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0b60327e-0e16-492a-be06-7bd31ee99d6c" alt="Image" width="300">
+</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f907dfdc-53ad-4283-8c15-989edb4ec55b" alt="Image" width="300">
