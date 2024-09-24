@@ -82,13 +82,14 @@ My list of projects vary across educational, corporational and eventful instance
 This was the first team related project I had which had a motive, learning experience and a reward as well as exposure to the robotic and corporate environment. This program was sponsored by SAP Labs and was tied up by First Lego League(FLL) who host many of these competitions every year.
 This project was very advanced in a way where we program a robot to perform certain tasks in a specific area and within a time limit. Each task has a number of points and they tally up to a particular team once the timer reaches zero.
 
-![image](https://github.com/user-attachments/assets/a25b6893-1a8b-4d76-acee-b0240b49763d)
 
-![image](https://github.com/user-attachments/assets/8a0c33a0-5892-4ba6-9cd4-56a4adc6744a)
 
-![image](https://github.com/user-attachments/assets/b7765e22-bfb5-4dea-8b6b-62243fca8009)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a25b6893-1a8b-4d76-acee-b0240b49763d" alt="Image 1" width="200" style="margin-right: 40px;">
+  <img src="https://github.com/user-attachments/assets/b7765e22-bfb5-4dea-8b6b-62243fca8009" alt="Image 2" width="200" style="margin-right: 40px;">
+  <img src="https://github.com/user-attachments/assets/a14e383d-e591-4303-86f5-c4a6c01422d2" alt="Image 3" width="200">
+</p>
 
-![image](https://github.com/user-attachments/assets/a14e383d-e591-4303-86f5-c4a6c01422d2)
 
 
 2.Bachelor Of Engineering Project - Wireless Power Transfer (2019)
