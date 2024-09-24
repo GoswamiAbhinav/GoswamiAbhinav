@@ -123,7 +123,7 @@ https://www.youtube.com/@untunednote/videos
 ![image](https://github.com/user-attachments/assets/c63854cf-775c-4e3b-b48e-2ef6f0ed58e8)
 
 
-2.Strategy/Olympic Gaming   
+2.**Strategy/Olympic Gaming**
 
 I also enjoy gaming and playing e-sports on a competitive level. Currently I play Rocket League and Dota 2 out of which I’m currently in the top <b>1% worldwide<b> in Rocket League. Rocket League has also come in the potential list of Olympic video games.
 
