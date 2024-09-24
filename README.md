@@ -47,7 +47,9 @@ The above flowchart represents the hierarchy of the promotions awarded to me dur
 Prior joining Oracle, I was an associate Software Engineer at Accenture with a specialty of Dev/Ops as my field.
 The Major client was Comcast and our team was managing the events and tickets for their servers on multiple platforms. This was my first job after graduating from my Bachelor of Engineering degree, hence work culture and diversity along with inclusion was well taught and trained here.
 
-![image](https://github.com/user-attachments/assets/467a08ff-63a5-46ba-8763-9dab28232d14)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/467a08ff-63a5-46ba-8763-9dab28232d14" alt="Image" width="300">
+</p>
 
 
 VI Solutions is an automation Company and a pioneer in providing Systems, Solutions and Products for a wide range of industries and applications.
