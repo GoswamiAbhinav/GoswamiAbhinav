@@ -14,13 +14,9 @@
 # Experience
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0b60327e-0e16-492a-be06-7bd31ee99d6c" alt="Oracle" width="200">
-  
-  <img src="path/to/image2.png](https://github.com/user-attachments/assets/f907dfdc-53ad-4283-8c15-989edb4ec55b" alt="Cerner" width="500">
-</p>
+<img src="https://github.com/user-attachments/assets/0b60327e-0e16-492a-be06-7bd31ee99d6c" alt="Image" width="300" align="left">
 
-
+<img src="https://github.com/user-attachments/assets/0b60327e-0e16-492a-be06-7bd31ee99d6c" alt="Image" width="300" align="right">
 
 
 The Oracle Journey has been an interesting series of events in my career. Oracle had a healthcare IT division earlier known as Cerner Healthcare which is now acquired. Within the Division, I was part of the Upgrade Center which mainly deals with EMR/EHR software upgrades for hospitals worldwide.
