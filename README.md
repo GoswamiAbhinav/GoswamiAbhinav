@@ -16,9 +16,9 @@
 
 <p align="center">
   
-  <img src="![image](https://github.com/user-attachments/assets/81e31785-433a-46e5-ae02-d1d1813e81a9)" alt="Image 1" width="200" style="margin-right: 20px;">
+  <img src="Oracle.png" alt="Image 1" width="200" style="margin-right: 20px;">
   
-  <img src="![image](https://github.com/user-attachments/assets/2da204da-ebd1-42af-8598-af825c82d4e7)" alt="Image 2" width="200" style="margin-left: 20px;">
+  <img src="Cerner.png" alt="Image 2" width="200" style="margin-left: 20px;">
   
 </p>
 
