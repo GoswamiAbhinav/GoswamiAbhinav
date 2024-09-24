@@ -15,8 +15,9 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0b60327e-0e16-492a-be06-7bd31ee99d6c" alt="Image 1" width="200">
-  <img src="[path/to/image2.png](https://github.com/user-attachments/assets/f907dfdc-53ad-4283-8c15-989edb4ec55b)" alt="Image 2" width="200">
+  <img src="https://github.com/user-attachments/assets/0b60327e-0e16-492a-be06-7bd31ee99d6c" alt="Oracle" width="200">
+  
+  <img src="[path/to/image2.png](https://github.com/user-attachments/assets/f907dfdc-53ad-4283-8c15-989edb4ec55b)" alt="Cerner" width="500">
 </p>
 
 
