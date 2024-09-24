@@ -63,7 +63,7 @@ My internship experience here was splendid and lots of learning capabilities thr
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7794288f-7271-4da0-9d16-88a24712cd88" alt="Image 1" width="200" style="margin-right: 40px;">
-  <img src="https://github.com/user-attachments/assets/7794288f-7271-4da0-9d16-88a24712cd88" alt="Image 2" width="200" style="margin-right: 40px;">
+  <img src="https://github.com/user-attachments/assets/d52772a3-9584-4ddc-a26c-e1fac5bdad56" alt="Image 2" width="200" style="margin-right: 40px;">
   <img src="https://github.com/user-attachments/assets/bba72e82-f192-4c90-b4ce-a9bd334156c5" alt="Image 3" width="200">
 </p>
 
