@@ -61,12 +61,13 @@ My internship experience here was splendid and lots of learning capabilities thr
 
 # Geography
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7794288f-7271-4da0-9d16-88a24712cd88" alt="Image 1" width="200" style="margin-right: 40px;">
+  <img src="https://github.com/user-attachments/assets/7794288f-7271-4da0-9d16-88a24712cd88" alt="Image 2" width="200" style="margin-right: 40px;">
+  <img src="https://github.com/user-attachments/assets/bba72e82-f192-4c90-b4ce-a9bd334156c5" alt="Image 3" width="200">
+</p>
 
-![image](https://github.com/user-attachments/assets/7794288f-7271-4da0-9d16-88a24712cd88)
 
-![image](https://github.com/user-attachments/assets/e4bf79ad-3e7a-46d5-af8f-2e2bf40b6f46)
-
-![image](https://github.com/user-attachments/assets/bba72e82-f192-4c90-b4ce-a9bd334156c5)
 
 I am originally from India, however I have stayed in Dubai and in the United States of America during my childhood as my father used to work in these locations. My family decided to move back to India for my education and I’m back in the US for my Masters degree.
 
