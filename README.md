@@ -68,9 +68,9 @@ My internship experience here was splendid and lots of learning capabilities thr
 # Geography
 
 <p align="center">
-  <img src="India-Flag.png" alt="Image 1" width="200" height="400" style="margin-right: 20px;">
-  <img src="US-Flag.png" alt="Image 1" width="200" height ="400" style="margin-right: 20px;">
-  <img src="UAE-Flag.png" alt="Image 1" width="200" height ="400" style="margin-right: 20px;">
+  <img src="India-Flag.png" alt="Image 1" width="200" height="200" style="margin-right: 20px;">
+  <img src="US-Flag.png" alt="Image 1" width="200" height ="200" style="margin-right: 20px;">
+  <img src="UAE-Flag.png" alt="Image 1" width="200" height ="200" style="margin-right: 20px;">
 </p>
 
 
