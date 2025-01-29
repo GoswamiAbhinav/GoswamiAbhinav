@@ -69,7 +69,7 @@ My internship experience here was splendid and lots of learning capabilities thr
 
 <table>
   <tr>
-    <td><img src="India-Flag.png" alt="India Flag" width="200" height="150"></td>
+    <td><img src="India-Flag.png" alt="India Flag" width="200" height="130"></td>
     <td><img src="US-Flag.png" alt="US Flag" width="200" height="170"></td>
     <td><img src="UAE-Flag.png" alt="UAE Flag" width="200" height="170"></td>
   </tr>
