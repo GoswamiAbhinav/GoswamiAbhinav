@@ -68,9 +68,9 @@ My internship experience here was splendid and lots of learning capabilities thr
 # Geography
 
 <p align="center">
-  ![India-Flag](https://github.com/user-attachments/assets/2152ee24-3056-484d-b140-b1f590a46cfa)
-  ![US-Flag](https://github.com/user-attachments/assets/7b13d134-d449-400c-91bf-f550afbcf999)
-  ![UAE-Flag](https://github.com/user-attachments/assets/801d9eb9-e43a-4755-864f-1618ffe720de)
+  <img src="India-Flag.png" alt="Image 1" width="200" style="margin-right: 20px;">
+  <img src="US-Flag.png" alt="Image 1" width="200" style="margin-right: 20px;">
+  <img src="UAE-Flag.png" alt="Image 1" width="200" style="margin-right: 20px;">
 </p>
 
 
