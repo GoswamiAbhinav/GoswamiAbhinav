@@ -69,20 +69,12 @@ My internship experience here was splendid and lots of learning capabilities thr
 
 <table>
   <tr>
-    <td align="center">
-      <img src="India-Flag.png" alt="India Flag" width="200" height="130"><br>
-      <strong>India</strong>
-    </td>
-    <td align="center">
-      <img src="US-Flag.png" alt="US Flag" width="200" height="170"><br>
-      <strong>United States</strong>
-    </td>
-    <td align="center">
-      <img src="UAE-Flag.png" alt="UAE Flag" width="200" height="170"><br>
-      <strong>United Arab Emirates</strong>
-    </td>
+    <td><img src="India-Flag.png" alt="India Flag" width="200" height="130"></td>
+    <td><img src="US-Flag.png" alt="US Flag" width="200" height="170"></td>
+    <td><img src="UAE-Flag.png" alt="UAE Flag" width="200" height="170"></td>
   </tr>
 </table>
+
 
 
 
