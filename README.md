@@ -67,11 +67,14 @@ My internship experience here was splendid and lots of learning capabilities thr
 
 # Geography
 
-<p align="center">
-  <img src="India-Flag.png" alt="Image 1" width="200" height="150" style="margin-left: 20px;">
-  <img src="US-Flag.png" alt="Image 1" width="200" height ="170" style="margin-right: 20px;">
-  <img src="UAE-Flag.png" alt="Image 1" width="200" height ="170" style="margin-right: 20px;">
-</p>
+<table>
+  <tr>
+    <td><img src="India-Flag.png" alt="India Flag" width="200" height="150"></td>
+    <td><img src="US-Flag.png" alt="US Flag" width="200" height="170"></td>
+    <td><img src="UAE-Flag.png" alt="UAE Flag" width="200" height="170"></td>
+  </tr>
+</table>
+
 
 
 I am originally from India, however I have stayed in Dubai and in the US during my childhood as my father used to work in these locations. My family decided to move back to India for my education and I’m back in the US for my Masters degree.
